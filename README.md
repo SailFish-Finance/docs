@@ -148,7 +148,7 @@ const response = await fetch("https://app.sailfish.finance/api/tokens", {
 #### **Steps to adding liquidity**
 
 - **Select Pool**: Choose a pool from the list of pools.
-- **Set Price**: Choose a price range(Narrow, Common, Wide, Full).
+- **Set Price Range**: Choose a price range(Narrow, Common, Wide, Full).
 - **Supply Amount**
 - **Add Liquidity(Create Position)**: Create a Position by adding Liquidity.
 
