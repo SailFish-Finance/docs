@@ -8,7 +8,7 @@ All API requests are made to the following base URL: `https://app.sailfish.finan
 
 ## Authentication
 
-No authentication credentials are required. The IP (domain) from which the request is sent needs to be whitelisted by the SailFish team. Please contact support `engineering@sailfish.finance`
+No authentication credentials are required. The IP (domain) from which the request are sent needs to be whitelisted by the SailFish team. Please contact support `engineering@sailfish.finance`
 
 ## Endpoints
 
