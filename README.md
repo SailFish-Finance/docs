@@ -65,7 +65,7 @@ fetchTokens();
 
 **Headers:**
 
-- `Content-Type`: `application/json`
+- `Content-Type`: `multipart/form-data`
 
 **Body:**
 
@@ -75,6 +75,7 @@ fetchTokens();
   "address": "0xAddress",
   "logo": "file", // The logo file is handled as multipart/form-data
   "created_at": "2024-08-19T12:34:56.789Z"
+  "dapp": "<dapp-name>" // optional. used for categorizing whitelisted pools
 }
 ```
 
